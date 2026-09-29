@@ -164,21 +164,16 @@ Study Weather/
 ### Module Responsibilities
 
 #### 'main.py'
-
 Acts as the entry point of the application. It imports the required functions from the other modules and provides the main menu.
 
 #### 'study.py'
-
 Contains the Pomodoro timer functionality and study-session tracking.
 
 #### 'weather.py'
-
 Handles recording weather information and retrieving today's weather.
 
 #### 'diary.py'
-
 Provides the weather diary, study statistics, and today's combined summary.
-
 
 
 ## 5. Installation and Setup
