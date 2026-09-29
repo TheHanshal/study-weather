@@ -153,32 +153,27 @@ diary.py
 
 
 Study Weather/
-│
-├── main.py       # Main menu and application flow
-├── study.py      # Pomodoro timer and study-session tracking
-├── weather.py    # Weather recording and today's weather retrieval
-├── diary.py      # Weather diary, study statistics, and daily summary
-└── README.md     # Project documentation
+
+#### main.py       # Main menu and application flow
+#### study.py      # Pomodoro timer and study-session tracking
+#### weather.py    # Weather recording and today's weather retrieval
+#### diary.py      # Weather diary, study statistics, and daily summary
+#### README.md     # Project documentation
 
 
 ### Module Responsibilities
 
 #### 'main.py'
-
 Acts as the entry point of the application. It imports the required functions from the other modules and provides the main menu.
 
 #### 'study.py'
-
 Contains the Pomodoro timer functionality and study-session tracking.
 
 #### 'weather.py'
-
 Handles recording weather information and retrieving today's weather.
 
 #### 'diary.py'
-
 Provides the weather diary, study statistics, and today's combined summary.
-
 
 
 ## 5. Installation and Setup
@@ -217,9 +212,7 @@ cd path/to/Study-Weather
 ### Step 3: Run the Application
 
 Run: python main.py
-If your system uses 'python3', run:
-
-python3 main.py
+If your system uses 'python3', run: python3 main.py
 The Study Weather main menu should then appear in the terminal.
 
 
@@ -402,7 +395,7 @@ Thanks for using Study Weather! 👋
 
 ### Main Menu
 
-![This is the main menu of the program]("C:\Users\hansh\Desktop\study weather\Main Menu Screenshot.png")
+![This is the main menu of the program](https://github.com/TheHanshal/study-weather/blob/ac0534906621138fa75fdce694753745793764b5/Main%20Menu%20Screenshot.png)
 
 
 ## 9. Data Storage
