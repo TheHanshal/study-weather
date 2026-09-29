@@ -153,12 +153,12 @@ diary.py
 
 
 Study Weather/
-│
-├── main.py       # Main menu and application flow
-├── study.py      # Pomodoro timer and study-session tracking
-├── weather.py    # Weather recording and today's weather retrieval
-├── diary.py      # Weather diary, study statistics, and daily summary
-└── README.md     # Project documentation
+
+main.py       # Main menu and application flow
+study.py      # Pomodoro timer and study-session tracking
+weather.py    # Weather recording and today's weather retrieval
+diary.py      # Weather diary, study statistics, and daily summary
+README.md     # Project documentation
 
 
 ### Module Responsibilities
