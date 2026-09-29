@@ -152,7 +152,7 @@ diary.py
 ## 4. Project Structure
 
 
-Study Weather/
+study-weather/program modules
 
 #### main.py       # Main menu and application flow
 #### study.py      # Pomodoro timer and study-session tracking
@@ -206,7 +206,7 @@ The files should remain in the same directory because the modules import functio
 Navigate to the folder containing the project files.
 
 For example:
-cd path/to/study-weather/modules to run the program
+cd path/to/study-weather/program modules
 
 
 ### Step 3: Run the Application
