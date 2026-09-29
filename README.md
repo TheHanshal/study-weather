@@ -154,11 +154,11 @@ diary.py
 
 Study Weather/
 
-main.py       # Main menu and application flow
-study.py      # Pomodoro timer and study-session tracking
-weather.py    # Weather recording and today's weather retrieval
-diary.py      # Weather diary, study statistics, and daily summary
-README.md     # Project documentation
+#### main.py       # Main menu and application flow
+#### study.py      # Pomodoro timer and study-session tracking
+#### weather.py    # Weather recording and today's weather retrieval
+#### diary.py      # Weather diary, study statistics, and daily summary
+#### README.md     # Project documentation
 
 
 ### Module Responsibilities
@@ -212,9 +212,7 @@ cd path/to/Study-Weather
 ### Step 3: Run the Application
 
 Run: python main.py
-If your system uses 'python3', run:
-
-python3 main.py
+If your system uses 'python3', run: python3 main.py
 The Study Weather main menu should then appear in the terminal.
 
 
