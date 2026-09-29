@@ -402,7 +402,7 @@ Thanks for using Study Weather! 👋
 
 ### Main Menu
 
-![This is the main menu of the program]("C:\Users\hansh\Desktop\study weather\Main Menu Screenshot.png")
+![This is the main menu of the program](https://github.com/TheHanshal/study-weather/blob/ac0534906621138fa75fdce694753745793764b5/Main%20Menu%20Screenshot.png)
 
 
 ## 9. Data Storage
