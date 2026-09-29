@@ -206,7 +206,7 @@ The files should remain in the same directory because the modules import functio
 Navigate to the folder containing the project files.
 
 For example:
-cd path/to/Study-Weather
+cd path/to/study-weather/modules to run the program
 
 
 ### Step 3: Run the Application
